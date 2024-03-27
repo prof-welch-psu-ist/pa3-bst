@@ -32,7 +32,7 @@ Your class should provide a toString method that recursively renders the tree us
 
 This method takes no formal parameters but should return an arraylist containing all items in the tree that are >= to `data`
 
-### Unit Testing
+## Unit Testing
 
 Your tests should cover all the methods described above. I won't prescribe a fixed number other than to say that they should convince you that the they are working. 
 
