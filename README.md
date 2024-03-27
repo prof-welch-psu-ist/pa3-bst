@@ -1,6 +1,6 @@
 # Binary Search Trees
 
-In this assignment you'll be completing the imperative binary search tree implementation started/outlined in the lecture videos M07-L03. For the purposes of this assignment, the tree you develop will not store duplicated items. All methods are to be recusive unless otherwise specified.
+In this assignment you'll be completing the imperative binary search tree implementation started/outlined in the lecture videos M07-L03. For the purposes of this assignment, the tree you develop will not store duplicated items. All methods are to be recusive unless otherwise specified -- see the rubric for additional criteria.
 
 ## Initial Setup
 
@@ -34,7 +34,7 @@ This method takes no formal parameters but should return an arraylist containing
 
 ## Unit Testing
 
-Your tests should cover all the methods described above. I won't prescribe a fixed number other than to say that they should convince you that the they are working. 
+Your tests should cover all the methods described above. I won't prescribe a fixed number other than to say that they should make the case that each operation is working as expected.
 
 ## Handin
 
