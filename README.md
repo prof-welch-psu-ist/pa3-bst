@@ -7,7 +7,7 @@ In this assignment you'll be completing the imperative binary search tree implem
 Create a class `BinarySearchTree` that is parameterized by a generic type parameter, `T` that `extends Comparable<T>`. 
 Next you'll need a `Node` class that stores both the data for a given node in the tree as well as its left and right children. Your `BinarySearchTree` class should maintain a field, `Node root`, that stores a reference to the root of the tree as well as a constructor that takes no parameters and initializes the `root` to null.
 
-### Required Operations
+## Required Operations
 
 Your binary search tree class should export the following (`public`) methods: 
 
