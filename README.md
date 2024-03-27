@@ -30,7 +30,7 @@ Your class should provide a toString method that recursively renders the tree us
 
 #### `partition(data)`
 
-This method takes no formal parameters but should return an arraylist containing all items in the tree that are >= to `data`
+This method takes a piece of data of type `T` and returns an arraylist containing all items in the tree that are >= to `data`
 
 ## Unit Testing
 
